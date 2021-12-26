@@ -1,0 +1,11 @@
+C:\Users\Samad.Dz\Desktop\Spotify Checker v3.0\Spotify Checker v3.0\bin\Debug\Spotify Checker v3.0.exe.config
+C:\Users\Samad.Dz\Desktop\Spotify Checker v3.0\Spotify Checker v3.0\bin\Debug\Spotify Checker v3.0.exe
+C:\Users\Samad.Dz\Desktop\Spotify Checker v3.0\Spotify Checker v3.0\bin\Debug\Spotify Checker v3.0.pdb
+C:\Users\Samad.Dz\Desktop\Spotify Checker v3.0\Spotify Checker v3.0\bin\Debug\Spotify Checker v3.0.xml
+C:\Users\Samad.Dz\Desktop\Spotify Checker v3.0\Spotify Checker v3.0\obj\Debug\Spotify Checker v3.0.vbprojResolveAssemblyReference.cache
+C:\Users\Samad.Dz\Desktop\Spotify Checker v3.0\Spotify Checker v3.0\obj\Debug\Spotify_Checker__v_3_0.Form1.resources
+C:\Users\Samad.Dz\Desktop\Spotify Checker v3.0\Spotify Checker v3.0\obj\Debug\Spotify_Checker__v_3_0.Resources.resources
+C:\Users\Samad.Dz\Desktop\Spotify Checker v3.0\Spotify Checker v3.0\obj\Debug\Spotify Checker v3.0.vbproj.GenerateResource.Cache
+C:\Users\Samad.Dz\Desktop\Spotify Checker v3.0\Spotify Checker v3.0\obj\Debug\Spotify Checker v3.0.exe
+C:\Users\Samad.Dz\Desktop\Spotify Checker v3.0\Spotify Checker v3.0\obj\Debug\Spotify Checker v3.0.xml
+C:\Users\Samad.Dz\Desktop\Spotify Checker v3.0\Spotify Checker v3.0\obj\Debug\Spotify Checker v3.0.pdb
